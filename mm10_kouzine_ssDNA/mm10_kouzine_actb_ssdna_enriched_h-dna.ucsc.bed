@@ -1,4 +1,4 @@
-track type=bed name="Kouzine H-DNA (exp.)" description="Kouzine H-DNA (experimental)" color="30,144,255"
+track type=bed name="Kouzine H-DNA (exp.)" description="Kouzine H-DNA (experimental)" color=30,144,255,
 chr1	3175239	3175255
 chr1	3287527	3287584
 chr1	3574485	3574513
