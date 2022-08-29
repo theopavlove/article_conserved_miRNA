@@ -1,0 +1,178 @@
+Conservation	miRNA gene family	# of genes	Seed region
+Bilateria	let-7/miR-98	12	GAGGUAG
+Bilateria	miR-1/206	3	GGAAUGU
+Bilateria	miR-7	3	GGAAGAC
+Bilateria	miR-9	3	CUUUGGU
+Bilateria	miR-10	2	ACCCUGU
+Bilateria	miR-22	1	AGCUGCC
+Bilateria	miR-25/32/92/363/367	7	AUUGCAC
+Bilateria	miR-29	4	AGCACCA
+Bilateria	miR-31	1	GGCAAGA
+Bilateria	miR-33	1	UGCAUUG
+Bilateria	miR-34/449	6	GGCAGUG
+Bilateria	miR-96/1271	2	UUGGCAC
+Bilateria	miR-99/100	3	ACCCGUA
+Bilateria	miR-124	3	AAGGCAC, UAAGGCA
+Bilateria	miR-125	3	CCCUGAG
+Bilateria	miR-133	3	UGGUCCC, UUGGUCC
+Bilateria	miR-153	2	UGCAUAG
+Bilateria	miR-183	1	AUGGCAC, UGGCACU
+Bilateria	miR-184	1	GGACGGA
+Bilateria	miR-190	2	GAUAUGU
+Bilateria	miR-193	2	GGGUCUU, ACUGGCC
+Bilateria	miR-200bc/429	3	AAUACUG
+Bilateria	miR-210	1	UGUGCGU
+Bilateria	miR-216a	1	AAUCUCA
+Bilateria	miR-219	2	GAUUGUC
+Bilateria	miR-365	2	AAUGCCC
+Bilateria	miR-375	1	UUGUUCG
+Deuterostomatia	miR-103/107	3	GCAGCAU
+Chordata	miR-129	2	UUUUUGC, AGCCCUU
+Chordata	miR-135	3	AUGGCUU
+Chordata	miR-182	1	UUGGCAA
+Chordata	miR-217	1	ACUGCAU
+Olfactores	miR-15/16/195/424/497	7	AGCAGCA
+Olfactores	miR-126	1	CGUACCG, GUACCGU
+Olfactores	miR-196	3	AGGUAGU
+Vertebrate	miR-17/20/93/106/519d	7	AAAGUGC
+Vertebrate	miR-18	2	AAGGUGC
+Vertebrate	miR-19	3	GUGCAAA
+Vertebrate	miR-21/590	2	AGCUUAU
+Vertebrate	miR-23	2	UCACAUU
+Vertebrate	miR-24	2	GGCUCAG
+Vertebrate	miR-26	3	UCAAGUA
+Vertebrate	miR-27	2	UCACAGU
+Vertebrate	miR-30	6	GUAAACA
+Vertebrate	miR-122	1	GGAGUGU
+Vertebrate	miR-128	2	CACAGUG
+Vertebrate	miR-130/301/454	5	AGUGCAA
+Vertebrate	miR-132/212	2	AACAGUC
+Vertebrate	miR-137	1	UAUUGCU
+Vertebrate	miR-138	2	GCUGGUG
+Vertebrate	miR-140	1	AGUGGUU, CCACAGG, ACCACAG
+Vertebrate	miR-141/200a	2	AACACUG
+Vertebrate	miR-142	1	AUAAAGU, GUAGUGU, UAGUGUU
+Vertebrate	miR-143	1	GAGAUGA
+Vertebrate	miR-144	1	ACAGUAU
+Vertebrate	miR-145	1	UCCAGUU
+Vertebrate	miR-146	2	GAGAACU
+Vertebrate	miR-147	1	UGUGCGG
+Vertebrate	miR-148/152	3	CAGUGCA
+Vertebrate	miR-155	1	UAAUGCU
+Vertebrate	miR-181	6	ACAUUCA
+Vertebrate	miR-192/215	2	UGACCUA
+Vertebrate	miR-194	2	GUAACAG
+Vertebrate	miR-199	3	CCAGUGU, CAGUAGU
+Vertebrate	miR-202	1	UCCUAUG
+Vertebrate	miR-203a	1	UGAAAUG, GAAAUGU
+Vertebrate	miR-204/211	2	UCCCUUU
+Vertebrate	miR-205	1	CCUUCAU
+Vertebrate	miR-208	2	UAAGACG
+Vertebrate	miR-216b	1	AAUCUCU
+Vertebrate	miR-218	2	UGUGCUU
+Vertebrate	miR-221/222	2	GCUACAU
+Vertebrate	miR-302abd	5	AAGUGCU
+Vertebrate	miR-302c	1	AGUGCUU
+Vertebrate	miR-338	1	CCAGCAU
+Vertebrate	miR-455	1	AUGUGCC, CAGUCCA, UGCAGUC
+Vertebrate	miR-499	1	UAAGACU
+Vertebrate	miR-551	2	CGACCCA
+Vertebrate	miR-802	1	CAGUAAC
+Vertebrate	miR-1306	1	CACCUCC
+Gnathostomata	miR-101	2	ACAGUAC, UACAGUA
+Gnathostomata	miR-139	1	CUACAGU
+Gnathostomata	miR-150	1	CUCCCAA
+Gnathostomata	miR-191	1	AACGGAA
+Gnathostomata	miR-214	1	GCCUGUC
+Gnathostomata	miR-223	1	GUCAGUU
+Gnathostomata	miR-425	1	AUGACAC
+Osteichthyes	miR-187	1	CGUGUCU
+Osteichthyes	miR-489	1	UGACAUC
+Amniota	miR-490	1	AACCUGG
+Tetrapoda	miR-383	1	GAUCAGA, AGAUCAG
+Mammalia	miR-186	1	AAAGAAU
+Mammalia	miR-325	1	UUAUUGA
+Mammalia	miR-873	1	CAGGAAC, GCAGGAA
+Theria	miR-340	1	UAUAAAG
+Theria	miR-1251	1	CUCUAGC
+Eutheria	miR-28/708	2	AGGAGCU
+Eutheria	miR-127	1	CGGAUCC
+Eutheria	miR-134	1	GUGACUG
+Eutheria	miR-136	1	CUCCAUU
+Eutheria	miR-149	1	CUGGCUC
+Eutheria	miR-151a	1	CGAGGAG, UAGACUG
+Eutheria	miR-154	1	AGGUUAU, AUCAUAC
+Eutheria	miR-185	1	GGAGAGA
+Eutheria	miR-188	1	AUCCCUU
+Eutheria	miR-224	1	AAGUCAC
+Eutheria	miR-296	1	GGGCCCC, AGGGUUG
+Eutheria	miR-299	1	GGUUUAC, AUGUGGG
+Eutheria	miR-323a	1	ACAUUAC
+Eutheria	miR-324	1	GCAUCCC
+Eutheria	miR-328	1	UGGCCCU
+Eutheria	miR-329/362	3	AUCCUUG, ACACACC
+Eutheria	miR-330	1	CUCUGGG, CAAAGCA, AAAGCAC
+Eutheria	miR-331	1	CCCCUGG
+Eutheria	miR-335	1	CAAGAGC
+Eutheria	miR-339	1	CCCUGUC
+Eutheria	miR-342	1	CUCACAC
+Eutheria	miR-346	1	GUCUGCC
+Eutheria	miR-361	1	UAUCAGA
+Eutheria	miR-369	1	AUAAUAC
+Eutheria	miR-371 (290)	1	CUCAAAC
+Eutheria	miR-374	2	UAUAAUA
+Eutheria	miR-376ab	3	UCAUAGA
+Eutheria	miR-376c	1	ACAUAGA
+Eutheria	miR-377	1	UCACACA
+Eutheria	miR-378a	1	CUGGACU
+Eutheria	miR-379	1	GGUAGAC, AUGUAAC
+Eutheria	miR-381	1	AUACAAG
+Eutheria	miR-382	1	AAGUUGU, AUCAUUC
+Eutheria	miR-409	1	GGUUACC, AAUGUUG
+Eutheria	miR-410	1	AUAUAAC
+Eutheria	miR-411	1	AGUAGAC, UAGUAGA
+Eutheria	miR-412	1	GGUCGAC
+Eutheria	miR-421	1	UCAACAG
+Eutheria	miR-423	1	GAGGGGC, GCUCGGU
+Eutheria	miR-431	1	GUCUUGC
+Eutheria	miR-433	1	UCAUGAU
+Eutheria	miR-448	1	UGCAUAU
+Eutheria	miR-450a	2	UUUGCGA
+Eutheria	miR-452	1	ACUGUUU
+Eutheria	miR-483	1	ACUCCUC, CACUCCU
+Eutheria	miR-485	1	GAGGCUG
+Eutheria	miR-486	1	CCUGUAC
+Eutheria	miR-487b	1	AUCGUAC
+Eutheria	miR-488	1	UGAAAGG
+Eutheria	miR-491	1	GUGGGGA
+Eutheria	miR-493	1	UGUACAU, GAAGGUC
+Eutheria	miR-494	1	GAAACAU
+Eutheria	miR-495	1	AACAAAC
+Eutheria	miR-496	1	GAGUAUU, GUAUUAC
+Eutheria	miR-501/502	2	AUGCACC
+Eutheria	miR-503	1	AGCAGCG
+Eutheria	miR-504	1	ACCCUGG
+Eutheria	miR-505	1	GUCAACA, UCAACAC
+Eutheria	miR-532	1	AUGCCUU, CUCCCAC
+Eutheria	miR-539	1	UCAUACA
+Eutheria	miR-542	1	GUGACAG
+Eutheria	miR-543	1	AACAUUC
+Eutheria	miR-544a	1	CUUGUUA
+Eutheria	miR-582	1	UACAGUU
+Eutheria	miR-615	1	CCGAGCC
+Eutheria	miR-652	1	AUGGCGC
+Eutheria	miR-653	1	UGAAACA
+Eutheria	miR-655	1	UAAUACA
+Eutheria	miR-665	1	CCAGGAG
+Eutheria	miR-668	1	GUCACUC
+Eutheria	miR-670	1	UUCCUCA
+Eutheria	miR-744	1	GCGGGGC
+Eutheria	miR-758	1	UUGUGAC
+Eutheria	miR-760	1	GGCUCUG
+Eutheria	miR-874	1	UGCCCUG
+Eutheria	miR-875	1	AUACCUC
+Eutheria	miR-876	1	GGAUUUC
+Eutheria	miR-1193	1	AGGUCAC
+Eutheria	miR-1197	1	AGGACAC
+Eutheria	miR-1249	1	CGCCCUU
+Eutheria	miR-1298	1	UCAUUCG
