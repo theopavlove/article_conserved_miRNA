@@ -1,0 +1,9 @@
+.env
+.gitignore.init.sh
+.ipynb_checkpoints
+.vscode
+data/mm10.fa.gz
+data/mm10.fa
+data/mm10_rmsk.txt.gz
+data/GSM775313_H3K9Ac_s_3_sorted_unique.uplift.bed.gz
+data/GSM775314_H3K14Ac_13HH3_s_4_sorted.uplift.bed.gz
