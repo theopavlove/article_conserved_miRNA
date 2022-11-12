@@ -1,0 +1,6 @@
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+BiocManager::install("ChIPseeker")
+BiocManager::install("GenomicFeatures")
+BiocManager::install("ChIPpeakAnno")
+BiocManager::install("clusterProfiler")
