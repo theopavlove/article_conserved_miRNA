@@ -1,6 +1,7 @@
 .env
 .ipynb_checkpoints
 .vscode
-data/mm10.fa.gz
-data/mm10.fa
-data/mm10.rmsk.txt.gz
+__pycache__
+data/rmsk/mm10.rmsk.txt.gz
+data/genome/mm10.fa.gz
+data/genome/mm10.fa
