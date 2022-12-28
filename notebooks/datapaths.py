@@ -1,5 +1,12 @@
 from pathlib import Path
 
+COLORS = {
+    'G4': "rgb(227,158,34,.5)",
+    'Z-DNA': "#4779A4",
+    'SIDD': "#C93435",
+    'H-DNA': "#9F637C",
+}
+
 D_ROOT = Path("/home/fpavlov/projects/article_conserved_miRNA/")
 
 D_IMG = D_ROOT / "img"
@@ -15,7 +22,9 @@ F_LIFTOVER_CHAIN = D_LIFTOVER / "mm9ToMm10.over.chain.gz"
 
 # Data
 D_DATA = D_ROOT / "data"
-F_MIRNA_LIST = D_DATA / "mirna_list.tsv"
+F_MIRNA_LIST_OG = D_DATA / "conserved_miR_list.tsv"
+F_MIRNA_LIST_ALL = D_DATA / "miR_list.tsv"
+F_MIRNA_LIST_CONSERVED = D_DATA / "miR_list_conserved.tsv"
 
 D_GEBR = D_DATA / "gebr"
 
@@ -23,7 +32,7 @@ D_TABLES = D_DATA / "tables"
 F_FLIPON_TO_MIRNA = D_TABLES / "flipon_to_mirna.tsv"
 F_FLIPON_TO_GENE = D_TABLES / "flipon_to_gene_feature.tsv"
 F_FLIPON_TO_DATA = D_TABLES / "flipon_to_data.tsv"
-F_FLIPON_TO_DATA_MIRNA = D_TABLES / "flipon_to_data_mirna.tsv"
+# F_FLIPON_TO_DATA_MIRNA = D_TABLES / "flipon_to_data_mirna.tsv"
 F_FLIPON_TO_RMSK = D_TABLES / "flipon_to_rmsk.tsv"
 F_FLIPON_TO_CCRE = D_TABLES / "flipon_to_ccre.tsv"
 
@@ -45,5 +54,7 @@ F_RMSK_LINE_LTR = D_RMSK / "mm10.rmsk.line_ltr.bed"
 D_GENOME = D_DATA / "genome"
 F_CHROM_SIZES = D_GENOME / "mm10.chrom.sizes"
 F_GENOME = D_GENOME / "mm10.fa"
-F_GENCODE = D_GENOME / "gencode.vM25.annotation.gtf.gz"
+F_GENCODE = D_GENOME / "gencode.vM25.basic.annotation.gtf.gz"
 F_GENCODE_STR = str(F_GENCODE)
+F_GENCODE_COMPREHENSIVE = D_GENOME / "gencode.vM25.annotation.gtf.gz"
+F_GENCODE_COMPREHENSIVE_STR = str(F_GENCODE_COMPREHENSIVE)
