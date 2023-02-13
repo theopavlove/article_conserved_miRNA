@@ -3,5 +3,3 @@
 .vscode
 __pycache__
 data/rmsk/mm10.rmsk.txt.gz
-data/genome/mm10.fa.gz
-data/genome/mm10.fa
